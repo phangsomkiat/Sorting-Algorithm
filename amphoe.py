@@ -1,4 +1,4 @@
-with open ('amphoe.txt','r',encoding='utf-8') as f:
+with open ('Amphoe.txt','r',encoding='utf-8') as f:
     alist = list(f)
     aa = []
     i = 0
